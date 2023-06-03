@@ -14,7 +14,7 @@
 # -Create a Google Cloud Service account key and name it
 # service_account.json and place in same directory as this script
 # 
-# -Add OpenAI API Key on line 179
+# -Add OpenAI API Key on line 181
 ################################################################
 
 
